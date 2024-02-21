@@ -2,6 +2,8 @@
 
 Un petit jeu dont le but est de survivre et de récupérer toutes les pièces.
 
+C'est un rojet individuel réalisé en 2024.
+
 # Execution
 
 Pour lancer le projet, vous devez tout d'abord installer Unity Hub et Unity si ce n'est pas déjà fait. Vous pouvez le faire en suivant les instructions disponibles sur [ce site](https://unity.com/download)). Clonez ensuite le dépôt, puis ouvrez Unity Hub et ajoutez le projet Unity en sélectionnant le dossier cloné.
