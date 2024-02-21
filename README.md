@@ -2,7 +2,7 @@
 
 Un petit jeu dont le but est de survivre et de récupérer toutes les pièces.
 
-C'est un rojet individuel réalisé en 2024.
+C'est un projet individuel réalisé en 2024.
 
 # Execution
 
